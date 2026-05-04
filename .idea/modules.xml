@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PregatIT.iml" filepath="$PROJECT_DIR$/.idea/PregatIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pregatIT/pregatIT.iml" filepath="$PROJECT_DIR$/pregatIT/pregatIT.iml" />
+    </modules>
+  </component>
+</project>
